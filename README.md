@@ -4,12 +4,19 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 
-### Step 1:
-Write your own steps here.
-### Step 2:
+# Step 1:
+Clone the github repository in to the theia IDE
+
+# Step 2:
+Create a new django project
+
+# Step 3:
+Write the needed html code
+
+# Step 4:
+Run the django server and execute the html files
 
 ## Code:
-Include your HTML code here
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -36,7 +43,6 @@ Include your HTML code here
 ```
 
 ## Output:
-Include your output screenshot here
 ![home](https://user-images.githubusercontent.com/115523484/234171574-ff0f66fd-8cc8-4fe2-9b85-3d702e420a03.jpg)
 
 
