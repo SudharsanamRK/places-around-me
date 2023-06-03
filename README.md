@@ -47,4 +47,4 @@ Run the django server and execute the html files
 
 
 ## Result:
-Program has been executed successfully
+Program To develop a website to display details about the places around my house has been created successfully
